@@ -1,0 +1,15 @@
+{
+  "name": "playwright-test-hooks",
+  "version": "1.0.0",
+  "description": "playwright test hooks repository",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.18"
+  }
+}
