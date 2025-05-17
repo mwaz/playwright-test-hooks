@@ -1,6 +1,6 @@
 # Playwright Test Hooks
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/playwright-test-hooks.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/playwright-test-hooks)
+[![CircleCI](https://circleci.com/gh/mwaz/playwright-test-hooks.svg?style=svg)](https://circleci.com/gh/mwaz/playwright-test-hooks)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
